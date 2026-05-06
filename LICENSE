@@ -1,0 +1,111 @@
+Custom License Agreement — WhatsApp Chat Viewer
+
+Copyright (c) 2026
+
+All rights reserved.
+
+
+---
+
+⚠️ IMPORTANT NOTICE
+
+This software and associated source code (the "Software") is provided for personal, educational, and non-commercial use only, subject to the restrictions below.
+
+By using, copying, or interacting with this Software, you agree to be legally bound by this license.
+
+
+---
+
+🚫 PROHIBITED USES
+
+You are strictly prohibited from:
+
+1. Commercial Use
+
+Selling this Software or any derivative work
+
+Using it in any paid product, SaaS, or commercial service
+
+Monetising it directly or indirectly (including ads, subscriptions, or data collection)
+
+
+2. Redistribution
+
+Redistributing the original code
+
+Hosting public forks or clones with identical or near-identical functionality
+
+Publishing modified versions without explicit written permission from the copyright holder
+
+
+3. Modification for Public Release
+
+You may modify the Software for personal use only
+
+You may NOT publish, share, or distribute modified versions publicly
+
+
+4. Reverse Engineering & Exploitation
+
+You may not reverse engineer the Software for the purpose of recreating or replicating it as a competing product
+
+You may not extract or reuse core parsing logic, UI structure, or design patterns for commercial or public projects
+
+
+5. Misrepresentation
+
+You may not claim authorship or ownership of the Software
+
+You may not present it as an official WhatsApp product or affiliate
+
+You may not use WhatsApp branding in a misleading or official capacity
+
+
+
+---
+
+⚙️ PERMITTED USES
+
+You ARE allowed to:
+
+Use the Software privately for viewing your own WhatsApp exports
+
+Modify it for personal, non-distributed experimentation
+
+Learn from the code for educational purposes
+
+
+
+---
+
+🔒 DATA & PRIVACY
+
+This Software runs entirely client-side
+
+No data is transmitted to external servers
+
+Users are fully responsible for the content of uploaded files
+
+
+
+---
+
+📛 TRADEMARK DISCLAIMER
+
+This project is NOT affiliated with, endorsed by, or associated with WhatsApp, Meta Platforms Inc., or any of its subsidiaries.
+
+"WhatsApp" is a registered trademark of Meta Platforms Inc.
+
+
+---
+
+⚖️ TERMINATION
+
+Any violation of this license automatically terminates your rights to use the Software. Upon termination, you must cease all use and delete all copies in your possession.
+
+
+---
+
+🧠 FINAL NOTE
+
+This license is designed to protect the integrity, originality, and intended purpose of the Software. It is intentionally restrictive to prevent cloning, misuse, or commercial exploitation.
